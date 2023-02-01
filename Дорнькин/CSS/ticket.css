@@ -1,0 +1,9 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: url(../img/ticket.jpg);
+    background-size: 100% 170%
+}
+form{
+    text-align: center;
+    margin-top: 350px;
+}
